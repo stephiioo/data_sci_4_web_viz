@@ -1,6 +1,10 @@
 # data_sci_4_web_viz
 
-## difficulty: for some reason cloud shell was not letting me push into github so i had to do a lot of troubleshooting to get it to work.
+## difficulties: 
+
+### - for some reason cloud shell was not letting me push into github so i had to do a lot of troubleshooting to get it to work.
+
+### - after deploying the shiny link, it kept loading but not populating and i am not sure if it was an issue with my wifi or something else so I attached an image of the app after it ran as proof
 
 ### Links:
 
