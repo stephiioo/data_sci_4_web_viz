@@ -1,7 +1,5 @@
 # Import necessary libraries
 library(shiny)
-library(ggplot2)
-library(dplyr)
 
 # UI for the Shiny app
 ui <- fluidPage(
